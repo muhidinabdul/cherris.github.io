@@ -102,6 +102,12 @@ section {
   color: #27ae60;
 }
 
+.header .logo img {
+  width: 25%;
+  padding-right: .5rem;
+  color: #27ae60;
+}
+
 .header .navbar a {
   font-size: 1.7rem;
   margin: 0 1rem;
