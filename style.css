@@ -651,7 +651,7 @@ section {
 }
 
 .banner .row-banner {
-  background: url(image/row-banner.png) no-repeat;
+  background: url(cherris/image/row-banner.png) no-repeat;
   height: 45rem;
   background-size: cover;
   background-position: center;
